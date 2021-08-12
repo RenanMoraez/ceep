@@ -29,3 +29,9 @@
     background-color: var(--secundaria-ativa);
   }
   
+  @media (max-width: 600px)
+{
+  .form-cadastro{
+    min-height: 20vh;
+  }
+}

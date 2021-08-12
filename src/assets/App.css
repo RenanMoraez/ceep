@@ -9,3 +9,10 @@
   --fundo: #2c3e50;
   --fundo-detalhes: #ececec;
 }
+@media (max-width: 600px)
+{
+  .conteudo{
+    display: flex;
+    flex-direction: column;
+  }
+}
